@@ -31,7 +31,7 @@ The app will open in your browser.
 ## Live Demo
 
 Try the app here:
-https://your-streamlit-link.streamlit.app
+https://ankitajoseph22-breast-cancer-prediction-streamlit-app-cyrvpk.streamlit.app/
 
 ## Author
 
